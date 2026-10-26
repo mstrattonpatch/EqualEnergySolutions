@@ -7,11 +7,11 @@
  * ─────────────────────────────────────────────────────────────
  */
 window.SITE = {
-  phone: "[PHONE NUMBER]",          // shown on the site, e.g. "0400 000 000"
-  phoneLink: "",                    // dialled number, e.g. "+61400000000" (leave blank to derive from phone)
+  phone: "0419 289 228",           // shown on the site, e.g. "0400 000 000"
+  phoneLink: "+61419289228",        // dialled number, e.g. "+61400000000" (leave blank to derive from phone)
   email: "[EMAIL ADDRESS]",         // e.g. "hello@equalenergysolutions.com.au"
 
-  abn: "[ABN]",
+  abn: "84 672 356 044",
   electricalLicence: "[LICENCE NUMBER]",
   arctickLicence: "[ARCTICK NUMBER]",
 
