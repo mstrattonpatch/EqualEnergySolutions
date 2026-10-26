@@ -15,8 +15,8 @@ window.SITE = {
   electricalLicence: "[LICENCE NUMBER]",
   arctickLicence: "[ARCTICK NUMBER]",
 
-  serviceArea: "Canberra & surrounds",   // e.g. "Canberra, Queanbeyan & surrounds"
-  hours: "Mon–Fri [7am–5pm] · Emergency 24/7",
+  serviceArea: "Canberra, Queanbeyan & surrounding regions",
+  hours: "Open 24/7, including emergencies",
   responseTime: "1 business day",
 
   // Google Business Profile links. Until the real ones are added these fall back to a Google Maps search.

@@ -29,7 +29,7 @@
     name: "Equal Energy Solutions",
     description: "Local electrician in Braddon — switchboards, EV chargers, lighting, air conditioning & refrigeration. 24/7 emergency service.",
     address: { "@type": "PostalAddress", addressLocality: "Braddon", addressRegion: "ACT", addressCountry: "AU" },
-    areaServed: "Canberra",
+    areaServed: ["Canberra", "Queanbeyan"],
     sameAs: [S.instagramUrl, S.facebookUrl].filter(Boolean),
     openingHoursSpecification: { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"], opens: "00:00", closes: "23:59" }
   };
